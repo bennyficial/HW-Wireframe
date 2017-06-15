@@ -18,14 +18,8 @@ p {
 }
 
 #container {
-	width: 960px;
-	margin-left: 29%;
 	
 
-}
-
-#middle {
-	margin-left: 37px;
 }
 
 #header {
@@ -38,6 +32,7 @@ p {
 	margin-bottom-width: 50px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+
 
 }
 
@@ -67,6 +62,7 @@ p {
 	float: left;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	
 
 
 }
@@ -86,6 +82,8 @@ p {
 	padding-bottom: 278px;
 	border: solid 10px #777;
 
+
+
 }
 
 #footer {
@@ -98,10 +96,9 @@ p {
 	border: solid 10px #777;
 	margin: auto;
 
-
 }
 
-#headers {
+#h {
 	background-color: #ebebeb;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -109,15 +106,24 @@ p {
 
 }
 
-#paragraph {
+#p {
 	background-color: #ebebeb;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	border: solid 5px #777;
+	}
+
+#container {
+	width: 100%;
+	background-color: #777;
 	
+
 }
+
+
 
 body {
 	background-color: #777;
-	
+	width: 1920px;
+
 }

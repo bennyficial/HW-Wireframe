@@ -1,9 +1,8 @@
 # HW-Wireframe
 ### Objective: 
 Build a web design skeleton using HTML/CSS.
-
 ### Specifications
-1. Your HTML should have each of the following sections: 
+1. HTML should have each of the following sections: 
    * Header
    * Nav
    * Aside
@@ -11,7 +10,7 @@ Build a web design skeleton using HTML/CSS.
    * Article (With a Heading)
    * Headers
    * Paragraph
-2. Your CSS should have styles for each of the following elements:
+2. CSS should have styles for each of the following elements:
    * Body
    * Header, nav, and footer
    * Section
@@ -19,7 +18,7 @@ Build a web design skeleton using HTML/CSS.
    * Article
    * .clear
    * Your text elements: h1, p, etc.
-3. The colors used in your final layout should be:
+3. The colors used in the final layout should be:
    * Background: #777
    * Content: #ebebeb
 4. The widths of each section should be:

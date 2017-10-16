@@ -1,8 +1,8 @@
 # HW-Wireframe
-###Ojective: 
+### Objective: 
 Build a web design skeleton using HTML/CSS.
 
-###Specifications
+### Specifications
 1. Your HTML should have each of the following sections: 
    * Header
    * Nav
